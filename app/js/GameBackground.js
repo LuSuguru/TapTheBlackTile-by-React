@@ -36,18 +36,7 @@ class GameBackground extends Component {
     }
 
     startMove() {
-        //isStart = true;
-        this.ceshi = true;
-        let { top } = this.state;
-        top = top + 1;
-        this.state.top = top;
-        console.log(top);
-        this.setState({
-            top:top
-        })
-        if (top < 149) {
-            this.timeFlag = setTimeout(this.startMove.bind(this), 50);
-        }
+      
     }
 
     componentDidMount() {
