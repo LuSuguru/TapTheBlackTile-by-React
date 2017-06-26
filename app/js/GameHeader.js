@@ -10,6 +10,11 @@ class GameHeader extends Component {
         a
     }
 
+    componentWillMount() {
+
+    }
+
+
 
 
     render() {
