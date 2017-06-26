@@ -11,9 +11,7 @@ class GameHeader extends Component {
     }
 
 
-    componentWillMount() {
 
-    }
 
 
     render() {
