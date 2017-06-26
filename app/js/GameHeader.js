@@ -7,10 +7,14 @@ class GameHeader extends Component {
 
 
     componentDidMount() {
-        111111
+        master
     }
 
 
+
+    componentWillMount() {
+        master
+    }
 
 
 
