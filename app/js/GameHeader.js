@@ -8,11 +8,14 @@ class GameHeader extends Component {
 <<<<<<< HEAD
 =======
     componentDidMount() {
-
+        111
     }
 
+<<<<<<< HEAD
 
 
+>>>>>>> a
+=======
 >>>>>>> a
     render() {
         return ( <
