@@ -5,7 +5,6 @@ class GameHeader extends Component {
         super(props);
     }
 
-
     render() {
         return ( <
             header >
