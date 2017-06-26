@@ -4,10 +4,6 @@ class GameHeader extends Component {
     constructor(props) {
         super(props);
     }
-    componentDidMount() {
-
-    }
-
 
     render() {
         return ( <
@@ -17,8 +13,8 @@ class GameHeader extends Component {
             nav >
             <
             a href = "#"
-            className = "reStart_1" > 重新开始 < /a>     <
-            /nav> <
+            className = "reStart_1" > 重新开始 < /a>     < /
+            nav > <
             /header>
         );
     }
