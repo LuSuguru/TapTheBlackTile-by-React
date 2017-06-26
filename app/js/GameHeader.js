@@ -5,6 +5,11 @@ class GameHeader extends Component {
         super(props);
     }
 
+    componentDidMount() {
+
+    }
+
+
 
     render() {
         return ( <
