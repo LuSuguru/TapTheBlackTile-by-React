@@ -4,10 +4,13 @@ class GameHeader extends Component {
     constructor(props) {
         super(props);
     }
+<<<<<<< HEAD
     componentDidMount() {
         12321
     }
 
+=======
+>>>>>>> a
 
     render() {
         return ( <
