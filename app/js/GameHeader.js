@@ -7,7 +7,7 @@ class GameHeader extends Component {
 
 
     componentDidMount() {
-        111
+        111111
     }
 
     render() {
