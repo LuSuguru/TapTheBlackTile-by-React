@@ -5,18 +5,10 @@ class GameHeader extends Component {
         super(props);
     }
 
-<<<<<<< HEAD
-=======
     componentDidMount() {
         111
     }
 
-<<<<<<< HEAD
-
-
->>>>>>> a
-=======
->>>>>>> a
     render() {
         return ( <
             header >
