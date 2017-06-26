@@ -7,15 +7,8 @@ class GameHeader extends Component {
 
 
     componentDidMount() {
-        master
+        a
     }
-
-
-
-    componentWillMount() {
-        master
-    }
-
 
 
     render() {
