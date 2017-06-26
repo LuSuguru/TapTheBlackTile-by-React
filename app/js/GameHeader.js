@@ -10,6 +10,12 @@ class GameHeader extends Component {
         111111
     }
 
+
+    componentWillMount() {
+
+    }
+
+
     render() {
         return ( <
             header >
