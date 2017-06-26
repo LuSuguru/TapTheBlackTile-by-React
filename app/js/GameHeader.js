@@ -7,7 +7,7 @@ class GameHeader extends Component {
 
 
     componentDidMount() {
-        a
+        a加东西
     }
 
 
