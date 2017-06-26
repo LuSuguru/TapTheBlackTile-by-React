@@ -5,6 +5,15 @@ class GameHeader extends Component {
         super(props);
     }
 
+<<<<<<< HEAD
+=======
+    componentDidMount() {
+
+    }
+
+
+
+>>>>>>> a
     render() {
         return ( <
             header >
