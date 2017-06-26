@@ -7,8 +7,10 @@ class GameHeader extends Component {
 
 
     componentDidMount() {
-        a加东西
+
+        a加东西修复
     }
+
 
 
     render() {
