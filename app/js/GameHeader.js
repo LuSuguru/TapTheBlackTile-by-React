@@ -7,7 +7,7 @@ class GameHeader extends Component {
 
 
     componentDidMount() {
-        a修
+        master
     }
 
 
