@@ -4,6 +4,16 @@ class GameHeader extends Component {
     constructor(props) {
         super(props);
     }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    componentDidMount() {
+        12321
+    }
+
+=======
+>>>>>>> a
+>>>>>>> master
 
     render() {
         return ( <
