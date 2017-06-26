@@ -7,7 +7,6 @@ class GameHeader extends Component {
 
 
     componentDidMount() {
-
         a修复bug
 
     }
